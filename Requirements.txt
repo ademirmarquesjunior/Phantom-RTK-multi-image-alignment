@@ -1,0 +1,8 @@
+PyQt5
+sys
+cv2
+numpy
+Pil
+glob
+os
+shutil
